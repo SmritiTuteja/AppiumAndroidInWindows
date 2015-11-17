@@ -4,7 +4,7 @@ This repo contains details of how to kick start Mobile Automation using Appium i
 ## Prerequisites
 ### Installation:
 1. JAVA JDK - http://www.oracle.com/technetwork/java/javase/downloads/index.html
-    * Set environment variable JAVA_HOME under 'System variables': https://cloud.githubusercontent.com/assets/5630557/11212911/efddc616-8d5e-11e5-8f25-5c006be3a723.PNG
+    * Set environment variable JAVA_HOME under 'System variables': ![set java-home](https://cloud.githubusercontent.com/assets/5630557/11212911/efddc616-8d5e-11e5-8f25-5c006be3a723.PNG)
 2. Android SDK - https://developer.android.com/sdk/index.html [Note: Appium supports Android API >=17]
 3. Node.js - https://nodejs.org/en/download/. Then run following commands to get Appium:
     * npm install -g appium  #get appium
