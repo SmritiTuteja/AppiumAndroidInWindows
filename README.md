@@ -34,5 +34,11 @@ C:\Windows\System32;%JAVA_HOME%\bin;%ANDROID_HOME%\bin;%M2_HOME%\bin;C:\Users\Ad
 3. APP_ACTIVITY: Activity name for the Android activity you want to launch from your package(MainActivity, .Settings etc.)
 All other Appium capabilties details can be found here - https://github.com/appium/appium/blob/master/docs/en/writing-running-appium/caps.md
 
+### Launch Appium and Run Scripts:
+1. Launch Appium Server:  appium &
+2. Run scripts
+3. To View element id's : Launch Appium Inspector
+   
+
 
 
