@@ -7,8 +7,9 @@ This repo contains details of how to kick start Mobile Automation using Appium i
 2. Android SDK - https://developer.android.com/sdk/index.html
 3. Update Android SDK Manager - https://cloud.githubusercontent.com/assets/5630557/11213044/dbcd015e-8d5f-11e5-9443-617febf57120.PNG [Note: Appium supports Android API >=17]
 4. Node.js - https://nodejs.org/en/download/
-5. Appium.exe - https://bitbucket.org/appium/appium.app/downloads/
-6. Apache Maven - https://maven.apache.org/download.cgi
+5. Appium.exe (zip file) - https://bitbucket.org/appium/appium.app/downloads/
+6. Apache Maven (zip file) - https://maven.apache.org/download.cgi
+7. Any IDE: Eclipse - https://www.eclipse.org/downloads/
 
 ### Setting Environment Variables
 1. Set environment variable JAVA_HOME under 'System variables': https://cloud.githubusercontent.com/assets/5630557/11212911/efddc616-8d5e-11e5-8f25-5c006be3a723.PNG
